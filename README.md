@@ -10,10 +10,10 @@
 - 1인칭 슈팅
 - 파쿠르(벽타기, 벽점프, 난간 오르기, 슬라이딩)
 - 기울여 쏘기
-- 블릿 타임
+- 블릿 타임(슬로우 모션)
 
 #### 사용한 에셋
-- [Eash Character Movement 2](https://assetstore.unity.com/packages/tools/physics/easy-character-movement-2-193614)
+- [Easy Character Movement 2](https://assetstore.unity.com/packages/tools/physics/easy-character-movement-2-193614)
 - [POLYGON Prototype - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-low-poly-3d-art-by-synty-137126)
 - [Epic Toon FX](https://assetstore.unity.com/packages/vfx/particles/epic-toon-fx-57772)
 - [UniTask](https://github.com/Cysharp/UniTask)
